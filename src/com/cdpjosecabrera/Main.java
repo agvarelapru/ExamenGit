@@ -11,6 +11,11 @@ public class Main {
 		System.out.println("El resultado es ..." +suma);
 		
 
+		int multi=ope.multi(5, 6);
+		System.out.println("El resultado es ..." +multi);
+		
+		int div=ope.div(5, 6);
+		System.out.println("El resultado es ..." +div);
 	}
 
 }
