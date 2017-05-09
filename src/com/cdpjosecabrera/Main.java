@@ -10,10 +10,6 @@ public class Main {
 		int suma=ope.suma(5, 6);
 		System.out.println("El resultado es ..." +suma);
 		
-		int resta=ope.resta(5, 6);
-		System.out.println("El resultado es ..." +resta);
-		
-		
 
 	}
 
